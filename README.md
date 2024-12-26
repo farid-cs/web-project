@@ -1,5 +1,5 @@
 # Group members
-- Emil Ahmadli
-- Tayfur
-- Orxan
-- Farid
+- Emil Əhmadli
+- Tayfur Tağızadə
+- Orxan Məmmədov
+- Fərid Fərəcli
